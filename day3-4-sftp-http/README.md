@@ -73,5 +73,11 @@ properly instead of disabling the check, plus recognizing a stale
 monitoring view instead of assuming the flow was broken.
 
 ## Files
-- `SFTP_HTTP_FileTransfer.zip` — exported iFlow package
-- `hostkey.txt` — sample Known Hosts output format (for reference)
+<img width="1366" height="768" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/97a06216-6d93-42de-b4bc-c28e340e8517" />
+[SFTP_HTTP_FileTransfer.zip](https://github.com/user-attachments/files/30176586/SFTP_HTTP_FileTransfer.zip)
+<img width="1366" height="768" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/7daf6213-4c07-40c1-87f8-1882808768e3" />
+<img width="1366" height="768" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/7677a0e7-5c48-4f79-9e64-e665a2fedb2f" />
+<img width="1366" height="768" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/1744d5f2-5e27-4ed9-8951-2338ec7ce172" />
+<img width="1366" height="768" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/01610606-ad60-4b3a-aa3e-e18bc6b2a625" />
+<img width="1366" height="768" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/4875a9b2-82d1-42d7-a0c5-0f56b226ddd4" />
+
